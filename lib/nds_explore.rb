@@ -3,7 +3,7 @@ require 'directors_database'
 # Call the method directors_database to retrieve the NDS
 
 require "pry"
-binding.pry
+#binding.pry
 directors_database
 
 
